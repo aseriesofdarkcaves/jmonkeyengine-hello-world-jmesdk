@@ -1,4 +1,4 @@
-package mygame;
+package com.asodc.test;
 
 import com.jme3.app.SimpleApplication;
 import com.jme3.material.Material;
@@ -12,10 +12,10 @@ import com.jme3.scene.shape.Box;
  * Move your Logic into AppStates or Controls
  * @author normenhansen
  */
-public class Main extends SimpleApplication {
+public class JmeHelloWorld extends SimpleApplication {
 
     public static void main(String[] args) {
-        Main app = new Main();
+        JmeHelloWorld app = new JmeHelloWorld();
         app.start();
     }
 
