@@ -3,4 +3,7 @@
 /dist
 /.dll
 /.so
-
+/out/
+/.idea/
+/target/
+*.iml
